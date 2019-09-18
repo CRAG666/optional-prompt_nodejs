@@ -6,4 +6,4 @@ optional prompt for nodejs
 * Create a new symbol link and move it to $HOME
 * add .zshrc or .bashrc 'alias js =" node ~ / .noderc "'
 ## Preview
-[js-preview](/preview.png)
+![js-preview](/preview.png)
